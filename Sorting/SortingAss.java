@@ -1,4 +1,4 @@
-public class SortingAss {
+public class SortingAss{
     import java.util.*;
 
 
