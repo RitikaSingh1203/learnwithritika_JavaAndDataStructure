@@ -14,7 +14,7 @@ public class DiagonalSum {
                 }
 
                     
-            }
+            } 
         }
         return sum;
     }
